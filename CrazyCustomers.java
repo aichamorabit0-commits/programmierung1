@@ -11,7 +11,9 @@ public class CrazyCustomers {
         if(muffins>Std1){
             System.out.println("studierende"+Student+":"+Std1+"muffins");
             else{ System.out.println("nicht genug muffins vorhanden");muffins-=Std1;Student++;}
+    
             
+
 
 
 
